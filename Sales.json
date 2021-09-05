@@ -1,0 +1,4 @@
+{"Name": "Rahul kumar", "Mobile_number": 9029973923, "Time": "Sun Sep  5 13:15:25 2021", "Prices of each product": [10, 30, 10], "Name_prod of each": ["chips", "cold_drinks", "Namkeens"], "Quantity of each product": [5, 6, 7], "Total Bill amount": "300"}
+{"Name": "Mukesh", "Mobile_number": 262992098, "Time": "Sun Sep  5 13:17:13 2021", "Prices of each product": [20, 30, 30], "Name_prod of each": ["chocalates", "cold_drinks", "coffee"], "Quantity of each product": [3, 8, 7], "Total Bill amount": "510"}
+{"Name": "Rohit", "Mobile_number": 937893873, "Time": "Sun Sep  5 13:21:29 2021", "Prices of each product": [30, 10, 30], "Name_prod of each": ["Biscuits", "Namkeens", "coffee"], "Quantity of each product": [4, 4, 6], "Total Bill amount": "340"}
+{"Name": "rahul", "Mobile_number": 93883, "Time": "Sun Sep  5 13:49:32 2021", "Prices of each product": [10], "Name_prod of each": ["chips"], "Quantity of each product": [10], "Total Bill amount": "100"}
