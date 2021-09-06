@@ -23,6 +23,6 @@ Cell 3:- Cell 3 is our main execution file where we first ask user thier identit
           if quantity is excedd then we a msg is that stock is full
           else, customer is ready to purchase 
           
-          then we ask user that he want to print the bill if yes then we the bill otherwise the exection is end. 
+          then we ask customer that he want to print the bill if yes then we the bill otherwise the exection is end. 
           
           
